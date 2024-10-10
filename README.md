@@ -31,7 +31,9 @@ Customization
 Feel free to customize this website to match your specific needs. Here are some areas you can modify:
 
 Content: Replace the placeholder text and images with your own content.
+
 Styling: Adjust the CSS in app.css to change the color scheme and styles.
+
 Navbar: Customize the navigation links in the header by modifying the <ul> element in the HTML.
 
 
